@@ -11,4 +11,4 @@ Run `python3 nltk-download.py` to let NLTK dowload any required assets
 Run `python3 main.py` to run the program. You can add any text you want in the variable `korWar`.
 
 ## Sample output
-!(figure.png)[WordCloud]
+![Word Cloud](figure.png)
