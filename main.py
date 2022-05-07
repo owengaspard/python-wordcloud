@@ -19,6 +19,8 @@ The Korean War was among the most destructive conflicts of the modern era, with 
 """
 korWa
 
+# Sourced from https://en.wikipedia.org/wiki/Korean_War
+
 stopwords = nltk.corpus.stopwords.words('english')
 stopwords.extend([',', '.', "´"])
 
